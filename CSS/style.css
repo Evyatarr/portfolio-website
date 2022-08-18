@@ -77,7 +77,23 @@ body{
     color: black;
 
 }
-h1{
+.flex{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+      }
+      @media (max-width: 800px) {
+        .flex {
+          flex-direction: column;
+
+        }
+
+    }
+    .flex>*{flex:1 1 0;}
+    .flex :nth-child(1) { order: 2; }
+
+
+    h1{
     size: 30vh;
     color: black;
     text-align: center;
@@ -115,10 +131,14 @@ h2{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: wheat;
+  background-color: white;
   color: black;
   text-align: center;
-  padding: 5px;
+  padding: 5px; 
+  clear: both;
+  position: relative;
+  height:  4vh;
+  margin-top: -4vh;
 }
 
 .blob {
