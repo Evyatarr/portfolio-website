@@ -90,7 +90,7 @@ body{
 
     }
     .flex>*{flex:1 1 0;}
-    .flex :nth-child(1) { order: 2; }
+    /* .flex :nth-child(1) { order: 2; } */
 
 
     h1{
