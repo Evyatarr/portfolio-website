@@ -130,6 +130,7 @@ span{
 @keyframes blinker{
 50%{
   opacity: 0;
+  
 }
 }
   #home,#hometext{
