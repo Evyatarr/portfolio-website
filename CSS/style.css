@@ -7,7 +7,6 @@ body {
 	background-color: "white";
 	margin: 0;
   overflow-x: clip;
-
 	max-width: 100vw;
 }
 
@@ -86,7 +85,7 @@ body {
     width: calc( 100% - 60px);
     padding-top: 10%;
     padding-bottom: 10%;
-    
+    text-align: center;
   }
 .flex{
     display: flex;
@@ -133,10 +132,11 @@ span{
   opacity: 0;
 }
 }
-    
-  #home{
-    
+  #home,#hometext{
+    text-align: left;
     }
+
+
 
 #Evyatar{
     display: block;
@@ -160,6 +160,7 @@ span{
 
 #about{
   background-color: gainsboro; 
+  
 }
 
 #cv{
