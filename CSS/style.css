@@ -82,7 +82,6 @@ body {
     margin: 0 auto;
     color: black;
     width: calc( 100% - 60px);
-    min-width: fit-content;
     padding-top: 10%;
     padding-bottom: 20%;
   }
