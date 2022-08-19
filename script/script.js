@@ -1,6 +1,6 @@
 /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
 function myFunction() {
-  var x = document.getElementById("myTopnav");
+  let x = document.getElementById("myTopnav");
   if (x.className === "topnav") {
     x.className += " responsive";
   } else {
@@ -10,9 +10,9 @@ function myFunction() {
 
 
 
-var messageArray = ["Full-stack Developer"]
-var textPosition = 0;
-var speed = 100;
+let messageArray = ["Full-stack Developer"]
+let textPosition = 0;
+let speed = 100;
 
 typewriter = () => {
   document.querySelector("#h3intro").
