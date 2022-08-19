@@ -111,23 +111,33 @@ body{
 #h3intro{
     text-align: left ;
     font-weight: bold;
-    -webkit-animation: typing 7s steps(21, end),
-    blink-caret .5s step-end infinite alternate;
+
+}
+span{
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker{
+50%{
+  opacity: 0;
+}
 }
     
-
-
   #home{
-  }
+    margin: auto;
+    min-width: fit-content;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    }
 
 #Evyatar{
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    width: 50%;
+    width: 65%;
     border-radius: 46% 54% 52% 48% / 33% 67% 33% 67%   ;
-    max-width: 400px;
+    max-width: 500px;
 }
 
 #projects{
@@ -180,7 +190,7 @@ body{
     font-weight: 600;
     color: #fff;
     cursor: pointer;
-    margin: 20px;
+    margin-top: 20px;
     height: 55px;
     text-align:center;
     border: none;
@@ -190,6 +200,7 @@ body{
     -o-transition: all .4s ease-in-out;
     -webkit-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
+    
   }
   
   .bn632-hover:hover {
