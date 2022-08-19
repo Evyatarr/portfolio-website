@@ -160,10 +160,15 @@ span{
 
 #skills{
     background-color: rgb(2, 74, 83);
-    color: white;
+    color: white !important;
 }
 
 
+#skillstext,#skillsh2{
+  background-color: rgb(2, 74, 83);
+  color: white !important;
+  
+}
 
 .footer {
   left: 0;
