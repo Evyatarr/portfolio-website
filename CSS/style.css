@@ -4,7 +4,7 @@ html{
 
 body{
     font-family: "Rubik",sans-serif;
-    background-color:wheat;
+    background-color:"white";
     margin: 0;
 
 }
@@ -93,7 +93,7 @@ body{
     /* .flex :nth-child(1) { order: 2; } */
 
 
-    h1{
+    h1,h2{
     size: 30vh;
     color: black;
     text-align: center;
@@ -104,15 +104,17 @@ body{
     font-size: 4vh;
     font-weight: bold;
 }
-
-h2{
+    h3{
     color: blueviolet;
     text-align: center;
 }
-#h2intro{
+#h3intro{
     text-align: left ;
     font-weight: bold;
+    -webkit-animation: typing 7s steps(21, end),
+    blink-caret .5s step-end infinite alternate;
 }
+    
 
 
   #home{
