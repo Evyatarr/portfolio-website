@@ -6,6 +6,8 @@ body {
 	font-family: "Rubik",sans-serif;
 	background-color: "white";
 	margin: 0;
+  overflow-x: clip;
+
 	max-width: 100vw;
 }
 
@@ -159,6 +161,10 @@ span{
   background-color: gainsboro; 
 }
 
+#cv{
+  margin-top: 50px;
+}
+
 #projects{
     background-color: oldlace; 
 }
@@ -271,4 +277,16 @@ span{
   
   #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
+  }
+
+  /* FOOTER */
+
+  .footer{
+    margin: 10px;
+    padding: 20px;
+    height: 150px;
+    color: white;
+    background-color: blueviolet;
+    position: 0;
+    max-width: 100vw;
   }
