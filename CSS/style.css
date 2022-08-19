@@ -93,12 +93,12 @@ body {
       @media (max-width: 800px) {
         .flex {
           flex-direction: column;
+          flex :nth-child(1) { order: 2; }
 
         }
 
     }
     .flex>*{flex:1 1 0;}
-    .flex :nth-child(1) { order: 2; }
 
 
     h1,h2{
