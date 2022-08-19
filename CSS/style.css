@@ -76,14 +76,14 @@ body {
 /* MAIN */
 
   .container {
-    padding-block: 50px;
-    padding-inline: 30px;
+    padding-block: 10%;
+    padding-inline: 10%;
     max-width: 1200px;
     margin: 0 auto;
     color: black;
     width: calc( 100% - 60px);
-    padding-top: 10%;
-    padding-bottom: 20%;
+    /* padding-top: 10%;
+    padding-bottom: 10%; */
   }
 .flex{
     display: flex;
@@ -102,8 +102,9 @@ body {
 
 
     h1,h2{
-    size: 30vh;
-    color: black;
+      font-size:2.5em;
+  
+      color: black;
     text-align: center;
 }
 
