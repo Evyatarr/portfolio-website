@@ -169,6 +169,9 @@ span{
     background-color: oldlace; 
 }
 
+#tiktag{
+margin-left: 50px;
+}
 #skills{
     background-color: rgb(2, 74, 83);
     color: white !important;
