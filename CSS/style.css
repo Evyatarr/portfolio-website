@@ -145,6 +145,15 @@ span{
     border-radius: 46% 54% 52% 48% / 33% 67% 33% 67%   ;
     max-width: 500px;
 }
+#Moji{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 65%;
+  max-width: 500px;
+
+}
 
 #projects{
     background-color: oldlace; 
