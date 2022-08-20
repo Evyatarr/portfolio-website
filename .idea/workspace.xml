@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="removed footer list style">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="flexbox fix">
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +254,35 @@
       <option name="project" value="LOCAL" />
       <updated>1661025541162</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="updated tiktag link">
+      <created>1661027464497</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1661027464497</updated>
+    </task>
+    <task id="LOCAL-00032" summary="footer fixing">
+      <created>1661029451044</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1661029451044</updated>
+    </task>
+    <task id="LOCAL-00033" summary="footer fixing">
+      <created>1661035840813</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1661035840813</updated>
+    </task>
+    <task id="LOCAL-00034" summary="flexbox fix">
+      <created>1661036510699</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1661036510699</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +297,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="flexbox update" />
     <MESSAGE value="margin fixes. added typewriter effect in js" />
     <MESSAGE value="Added scroll up button" />
     <MESSAGE value="Added README" />
@@ -292,6 +319,9 @@
     <MESSAGE value="updated footer" />
     <MESSAGE value="updated footer copyright" />
     <MESSAGE value="removed footer list style" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed footer list style" />
+    <MESSAGE value="updated tiktag link" />
+    <MESSAGE value="footer fixing" />
+    <MESSAGE value="flexbox fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="flexbox fix" />
   </component>
 </project>
