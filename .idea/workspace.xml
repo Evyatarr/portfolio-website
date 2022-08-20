@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="updated footer elements">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="updated text sizing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -297,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661037189624</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="updated text sizing">
+      <created>1661038877738</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1661038877738</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +319,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added README" />
     <MESSAGE value="updated home txt" />
     <MESSAGE value="fixed Memoji  image in project" />
     <MESSAGE value="fixed Memoji location on page" />
@@ -337,6 +343,7 @@
     <MESSAGE value="flexbox fix" />
     <MESSAGE value="fixed scroll bug on mobile (removed .wrapper)" />
     <MESSAGE value="updated footer elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated footer elements" />
+    <MESSAGE value="updated text sizing" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated text sizing" />
   </component>
 </project>
