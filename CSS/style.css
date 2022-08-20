@@ -114,14 +114,14 @@ body {
 
 h1,
 h2 {
-  size: 30vh;
+font-size:2.5em;
   color: black;
   text-align: center;
 }
 
 #h1intro {
   text-align: left;
-  font-size: 4vh;
+  font-size: 4em;
   font-weight: bold;
 }
 h3 {
@@ -307,6 +307,7 @@ span {
 
 .footer ul {
   list-style: none;
+  white-space:nowrap
 }
   
 

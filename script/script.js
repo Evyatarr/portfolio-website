@@ -10,7 +10,7 @@ function myFunction() {
 
 
 
-let messageArray = ["Full-stack Developer"]
+let messageArray = ["Full-stack Developer & Freelancer"]
 let textPosition = 0;
 let speed = 100;
 
