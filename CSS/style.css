@@ -115,24 +115,17 @@ body {
 
 
 h1,
-h2 ,#tiktag{
+h2 ,#tiktag,#tiktag a{
 font-size:2em;
   color: black;
   text-align: center;
+  text-decoration: none;
+
 }
 
 h3 {
   color: blueviolet;
   text-align: center;
-}
-
-h4{
- 
-}
-
-h4 a{
-text-decoration: none;
-
 }
 
 
