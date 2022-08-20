@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="flexbox fix">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="updated footer elements">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -282,7 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661036510699</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="fixed scroll bug on mobile (removed .wrapper)">
+      <created>1661037001400</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1661037001400</updated>
+    </task>
+    <task id="LOCAL-00036" summary="updated footer elements">
+      <created>1661037189624</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1661037189624</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,8 +312,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="margin fixes. added typewriter effect in js" />
-    <MESSAGE value="Added scroll up button" />
     <MESSAGE value="Added README" />
     <MESSAGE value="updated home txt" />
     <MESSAGE value="fixed Memoji  image in project" />
@@ -322,6 +335,8 @@
     <MESSAGE value="updated tiktag link" />
     <MESSAGE value="footer fixing" />
     <MESSAGE value="flexbox fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="flexbox fix" />
+    <MESSAGE value="fixed scroll bug on mobile (removed .wrapper)" />
+    <MESSAGE value="updated footer elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated footer elements" />
   </component>
 </project>

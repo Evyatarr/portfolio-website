@@ -115,7 +115,7 @@ body {
 
 
 h1,
-h2 {
+h2 ,#tiktag{
 font-size:2em;
   color: black;
   text-align: center;
@@ -127,7 +127,7 @@ h3 {
 }
 
 h4{
-  font-size: 2em;
+ 
 }
 
 h4 a{
@@ -190,7 +190,8 @@ span {
   text-align: center;
 }
 
-#tiktag {
+#tiktag{
+  color: black;
 }
 #skills {
   background-color: rgb(2, 74, 83);
@@ -203,6 +204,9 @@ span {
   color: white !important;
 }
 
+#callme{
+size: 3em;
+}
 .blob {
   position: fixed;
   top: 0;
@@ -316,6 +320,7 @@ span {
 .footer a {
   color: white;
   text-decoration: none;
+  margin-left: 10px;
 } 
 
 .footer ul {
