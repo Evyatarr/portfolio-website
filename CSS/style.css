@@ -95,15 +95,24 @@ body {
     align-items: center;
     flex-direction: row;
       }
+      .flex :first-child { order:1; }
+
       @media (max-width: 800px) {
         .flex {
           flex-direction: column;
 
-        }
+        }}
+        
+
+        @media (max-width: 800px) {
+          .flex {
+            flex-direction: column;
+  
+          }
+          .flex :first-child { order: 0; }
 
     }
     .flex>*{flex:1 1 0;}
-    .flex :nth-child(1) { order: 2; }
 
 
     h1,h2{
