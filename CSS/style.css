@@ -128,6 +128,18 @@ h3 {
   text-align: center;
 }
 
+h4{
+  text-align: left;
+}
+
+
+h4 a,#callme,#email,#location{
+  text-decoration: none;
+  color: black;
+  text-align: left;
+  display: block
+}
+
 
 #h1intro {
   text-align: left;
