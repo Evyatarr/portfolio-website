@@ -297,8 +297,8 @@ span {
 /* FOOTER */
 
  .footer {
-  /* padding: 20px;
-  height: 150px;*/
+   padding: 20px;
+   height: 150px; 
   color: white;
   background-color: blueviolet;
   /* position: 0;
