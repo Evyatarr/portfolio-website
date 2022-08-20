@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="updated footer" />
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="updated footer copyright">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661024076324</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="updated footer">
+      <created>1661024101921</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1661024101921</updated>
+    </task>
+    <task id="LOCAL-00029" summary="updated footer copyright">
+      <created>1661024868265</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1661024868265</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +282,7 @@
     <MESSAGE value="fixed width issue" />
     <MESSAGE value="fixed flex mobile order" />
     <MESSAGE value="updated footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated footer" />
+    <MESSAGE value="updated footer copyright" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated footer copyright" />
   </component>
 </project>
