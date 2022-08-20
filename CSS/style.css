@@ -100,17 +100,22 @@ body {
   flex-direction: row;
 }
 
+.flex :first-child {
+  order: 0;
+}
 @media (max-width: 800px) {
   .flex {
     flex-direction: column;
   }
   .flex :first-child {
-    order: 0;
+    order: 1;
   }
 }
 .flex > * {
   flex: 1 1 0;
 }
+
+
 
 h1,
 h2 {
