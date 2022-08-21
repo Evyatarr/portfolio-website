@@ -17,7 +17,7 @@ let speed = 100;
 typewriter = () => {
   document.querySelector("#h3intro").
   innerHTML = messageArray[0].substring(0,
-    textPosition) + "<span>\u25ae</span>";
+    textPosition) + "<span id='typewriter'>\u25ae</span id='typewriter'>";
 
     if(textPosition++ != messageArray[0].length)
       setTimeout(typewriter, speed)

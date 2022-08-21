@@ -156,7 +156,7 @@ h4 a,#callme,#email,#location,.contacttitle{
   text-align: left;
   font-weight: bold;
 }
-span {
+#typewriter {
   animation: blinker 1s linear infinite;
 }
 
@@ -203,6 +203,8 @@ span {
 .swiper {
   /* width: 600px;
   height: 300px; */
+  display: flex;
+  max-width: 90vw;
 }
 .swiper-slide{
   display: flex;
@@ -327,7 +329,7 @@ size: 3em;
 
  .footer {
    padding: 20px;
-   height: 150px; 
+  min-height: 150px; 
   color: white;
   background-color: blueviolet;
   position: 0;
