@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="contact svg update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="update flex width to fix contact section">
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -44,20 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00008" summary="fixed Memoji location on page">
-      <created>1660919480049</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1660919480049</updated>
-    </task>
-    <task id="LOCAL-00009" summary="fixed Memoji location on page">
-      <created>1660919624446</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1660919624446</updated>
     </task>
     <task id="LOCAL-00010" summary="fixed Memoji location on page">
       <created>1660919703031</created>
@@ -388,7 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661115505837</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="contact svg update">
+      <created>1661115551851</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1661115551851</updated>
+    </task>
+    <task id="LOCAL-00058" summary="update flex width to fix contact section">
+      <created>1661118672429</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1661118672429</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initially fixed the margin problem with center text align" />
     <MESSAGE value="further fixed text alignment" />
     <MESSAGE value="added buttons icon" />
     <MESSAGE value="fixed width issue" />
@@ -428,6 +426,7 @@
     <MESSAGE value="fixed swiperjs on mobile" />
     <MESSAGE value="fixed skills' svg's" />
     <MESSAGE value="contact svg update" />
-    <option name="LAST_COMMIT_MESSAGE" value="contact svg update" />
+    <MESSAGE value="update flex width to fix contact section" />
+    <option name="LAST_COMMIT_MESSAGE" value="update flex width to fix contact section" />
   </component>
 </project>
