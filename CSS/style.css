@@ -136,7 +136,7 @@ h3 {
   text-align: center;
 }
 
-h4{
+h4,h5{
   text-align: left;
 
 }
@@ -148,6 +148,7 @@ h4 a,#callme,#email,#location,.contacttitle{
   text-align: left;
   display: block;
 }
+
 
 
 #h1intro {
@@ -237,6 +238,10 @@ max-width: 500px;
 
 #callme{
 size: 3em;
+}
+
+#callicon,#emailicon,#locationicon{
+  float: right;
 }
 
 .blob {
