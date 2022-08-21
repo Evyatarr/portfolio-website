@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="added data to contact section">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="added wrapper">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -324,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661039952076</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="added wrapper">
+      <created>1661040993239</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1661040993240</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed Memoji location on page" />
     <MESSAGE value="changed Skills section color to white" />
     <MESSAGE value="added about me section" />
     <MESSAGE value="revert to old release to fix margin issues and improved it" />
@@ -364,6 +371,7 @@
     <MESSAGE value="updated text sizing" />
     <MESSAGE value="removed &quot;me&quot; from about" />
     <MESSAGE value="added data to contact section" />
-    <option name="LAST_COMMIT_MESSAGE" value="added data to contact section" />
+    <MESSAGE value="added wrapper" />
+    <option name="LAST_COMMIT_MESSAGE" value="added wrapper" />
   </component>
 </project>
