@@ -125,7 +125,9 @@ font-size:2em;
   text-decoration: none;
 
 }
-
+#homesocial{
+  float:right;
+}
 h3 {
   color: blueviolet;
   text-align: center;
@@ -215,6 +217,10 @@ span {
 
 #callme{
 size: 3em;
+}
+
+.form{
+  text-align: left;
 }
 .blob {
   position: fixed;
