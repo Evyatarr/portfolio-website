@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed overflow-x">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="changed footer txt align to left">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +44,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00002" summary="margin fixes. added typewriter effect in js">
-      <created>1660899999257</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1660899999257</updated>
     </task>
     <task id="LOCAL-00003" summary="Added scroll up button">
       <created>1660915993406</created>
@@ -386,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661092438411</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="changed footer txt align to left">
+      <created>1661095621087</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1661095621087</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added download cv button" />
     <MESSAGE value="changed home text &#10;improved footer" />
     <MESSAGE value="updated projects section" />
     <MESSAGE value="updated skills" />
@@ -426,6 +427,7 @@
     <MESSAGE value="added contact form" />
     <MESSAGE value="added swiperjs" />
     <MESSAGE value="fixed overflow-x" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed overflow-x" />
+    <MESSAGE value="changed footer txt align to left" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed footer txt align to left" />
   </component>
 </project>
