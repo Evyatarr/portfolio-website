@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed swiperjs on mobile">
-      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed skills' svg's">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Added README">
-      <created>1660916133990</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1660916133990</updated>
     </task>
     <task id="LOCAL-00006" summary="updated home txt">
       <created>1660918443182</created>
@@ -387,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661104142635</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="fixed skills' svg's">
+      <created>1661104879305</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1661104879305</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated skills" />
     <MESSAGE value="added href and margin to tiktag in project section" />
     <MESSAGE value="initially fixed the margin problem with center text align" />
     <MESSAGE value="further fixed text alignment" />
@@ -427,6 +426,7 @@
     <MESSAGE value="changed footer txt align to left" />
     <MESSAGE value="fixed slwiperjs on mobile" />
     <MESSAGE value="fixed swiperjs on mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed swiperjs on mobile" />
+    <MESSAGE value="fixed skills' svg's" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed skills' svg's" />
   </component>
 </project>
