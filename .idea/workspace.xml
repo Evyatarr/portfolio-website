@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="updated text sizing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="added data to contact section">
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -304,7 +303,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661038877738</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="removed &quot;me&quot; from about">
+      <created>1661039031400</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1661039031400</updated>
+    </task>
+    <task id="LOCAL-00039" summary="removed &quot;me&quot; from about">
+      <created>1661039043516</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1661039043516</updated>
+    </task>
+    <task id="LOCAL-00040" summary="added data to contact section">
+      <created>1661039952076</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1661039952076</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,8 +339,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated home txt" />
-    <MESSAGE value="fixed Memoji  image in project" />
     <MESSAGE value="fixed Memoji location on page" />
     <MESSAGE value="changed Skills section color to white" />
     <MESSAGE value="added about me section" />
@@ -344,6 +362,8 @@
     <MESSAGE value="fixed scroll bug on mobile (removed .wrapper)" />
     <MESSAGE value="updated footer elements" />
     <MESSAGE value="updated text sizing" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated text sizing" />
+    <MESSAGE value="removed &quot;me&quot; from about" />
+    <MESSAGE value="added data to contact section" />
+    <option name="LAST_COMMIT_MESSAGE" value="added data to contact section" />
   </component>
 </project>

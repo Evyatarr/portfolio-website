@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.wrapper{
+  overflow-x: hidden;
+}
+
 body {
   font-family: "Rubik", sans-serif;
   background-color: "white";
@@ -130,14 +134,16 @@ h3 {
 
 h4{
   text-align: left;
+
 }
 
 
-h4 a,#callme,#email,#location{
+h4 a,#callme,#email,#location,.contacttitle{
   text-decoration: none;
   color: black;
   text-align: left;
-  display: block
+  display: block;
+  margin-left: 20%;
 }
 
 
