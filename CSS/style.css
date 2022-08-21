@@ -115,9 +115,8 @@ body {
 }
 .flex > * {
   flex: 1 1 0;
-}
-
-
+  width: 100%;
+ }
 
 h1,
 h2 ,#tiktag,#tiktag a{
@@ -226,6 +225,11 @@ margin: 0;
 #tiktagscreenshot{
 max-width: 100%;
 
+}
+
+#tiktagabout{
+  text-align: center;
+  font-size: 2em;
 }
 #skills {
   background-color: rgb(2, 74, 83);
