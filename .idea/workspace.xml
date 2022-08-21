@@ -44,13 +44,6 @@
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
     </task>
-    <task id="LOCAL-00011" summary="changed Skills section color to white">
-      <created>1660921277678</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1660921277678</updated>
-    </task>
     <task id="LOCAL-00012" summary="added about me section">
       <created>1660922288267</created>
       <option name="number" value="00012" />
@@ -387,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661119088096</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="update flex width to fix contact section">
+      <created>1661119589322</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1661119589322</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
