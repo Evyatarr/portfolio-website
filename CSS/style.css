@@ -244,7 +244,9 @@ max-width: 100%;
 }
 #skillsflex{
   text-align: center;
-  margin:  0 auto;}
+  margin:  0 auto;
+  gap: 5em;
+}
 
 #callme{
 size: 3em;
