@@ -200,9 +200,20 @@ span {
   background-color: oldlace;
   text-align: center;
 }
+.swiper {
+  /* width: 600px;
+  height: 300px; */
+}
+.swiper-slide{
+  display: flex;
+  justify-content:left;
+margin: 0;
+  align-items: left;
+}
 
 #tiktag{
   color: black;
+  text-align: left;
 }
 #skills {
   background-color: rgb(2, 74, 83);
@@ -219,9 +230,6 @@ span {
 size: 3em;
 }
 
-.form{
-  text-align: left;
-}
 .blob {
   position: fixed;
   top: 0;
