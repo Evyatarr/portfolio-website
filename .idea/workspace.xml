@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed slwiperjs on mobile">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed swiperjs on mobile">
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -44,13 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added scroll up button">
-      <created>1660916105627</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1660916105627</updated>
     </task>
     <task id="LOCAL-00005" summary="Added README">
       <created>1660916133990</created>
@@ -388,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661104126457</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="fixed swiperjs on mobile">
+      <created>1661104142635</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1661104142635</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated projects section" />
     <MESSAGE value="updated skills" />
     <MESSAGE value="added href and margin to tiktag in project section" />
     <MESSAGE value="initially fixed the margin problem with center text align" />
@@ -428,6 +426,7 @@
     <MESSAGE value="fixed overflow-x" />
     <MESSAGE value="changed footer txt align to left" />
     <MESSAGE value="fixed slwiperjs on mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed slwiperjs on mobile" />
+    <MESSAGE value="fixed swiperjs on mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed swiperjs on mobile" />
   </component>
 </project>

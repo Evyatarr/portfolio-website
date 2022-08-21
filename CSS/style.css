@@ -98,6 +98,7 @@ body {
   display: flex;
   align-items: center;
   flex-direction: row;
+  max-width: 100%;
 }
 
 .flex :first-child {
@@ -223,7 +224,8 @@ margin: 0;
   text-align: left;
 }
 #tiktagscreenshot{
-max-width: 500px;
+max-width: 100%;
+
 }
 #skills {
   background-color: rgb(2, 74, 83);
@@ -234,7 +236,11 @@ max-width: 500px;
 #skillsh2 {
   background-color: rgb(2, 74, 83);
   color: white !important;
+  text-align: center;
 }
+#skillsflex{
+  text-align: center;
+  margin:  0 auto;}
 
 #callme{
 size: 3em;
