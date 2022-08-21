@@ -126,8 +126,10 @@ font-size:2em;
   text-decoration: none;
 
 }
-#homesocial{
+#homesocial,#homesocial a{
+  color: blueviolet;
   float:right;
+  margin-left: 10px;
 }
 h3 {
   color: blueviolet;
@@ -189,8 +191,9 @@ h4 a,#callme,#email,#location,.contacttitle{
   max-width: 500px;
 }
 
-#about {
+#about,#aboutme {
   background-color: gainsboro;
+  text-align:left;
 }
 
 #cv {
@@ -217,6 +220,9 @@ margin: 0;
 #tiktag{
   color: black;
   text-align: left;
+}
+#tiktagscreenshot{
+max-width: 500px;
 }
 #skills {
   background-color: rgb(2, 74, 83);
