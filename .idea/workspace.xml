@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed skills' svg's">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="contact svg update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +44,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00007" summary="fixed Memoji  image in project">
-      <created>1660918968628</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1660918968628</updated>
     </task>
     <task id="LOCAL-00008" summary="fixed Memoji location on page">
       <created>1660919480049</created>
@@ -386,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661105731434</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="contact svg update">
+      <created>1661115505837</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1661115505837</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added href and margin to tiktag in project section" />
     <MESSAGE value="initially fixed the margin problem with center text align" />
     <MESSAGE value="further fixed text alignment" />
     <MESSAGE value="added buttons icon" />
@@ -426,6 +427,7 @@
     <MESSAGE value="fixed slwiperjs on mobile" />
     <MESSAGE value="fixed swiperjs on mobile" />
     <MESSAGE value="fixed skills' svg's" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed skills' svg's" />
+    <MESSAGE value="contact svg update" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact svg update" />
   </component>
 </project>
