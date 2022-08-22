@@ -386,6 +386,7 @@ size: 3em;
 
 .footer ul {
   list-style: none;
+  padding: 10px;
 } 
 
 .footer li{

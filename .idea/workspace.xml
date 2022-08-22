@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed footer width issue">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed footer flex order">
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -44,20 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00018" summary="added href and margin to tiktag in project section">
-      <created>1660949810468</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1660949810468</updated>
-    </task>
-    <task id="LOCAL-00019" summary="initially fixed the margin problem with center text align">
-      <created>1660949937858</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1660949937858</updated>
     </task>
     <task id="LOCAL-00020" summary="further fixed text alignment">
       <created>1660950409521</created>
@@ -388,7 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661205437403</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="fixed footer width issue">
+      <created>1661205551919</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1661205551919</updated>
+    </task>
+    <task id="LOCAL-00068" summary="fixed footer flex order">
+      <created>1661206467608</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1661206467608</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added buttons icon" />
     <MESSAGE value="fixed width issue" />
     <MESSAGE value="fixed flex mobile order" />
     <MESSAGE value="updated footer" />
@@ -428,6 +426,7 @@
     <MESSAGE value="contact svg update" />
     <MESSAGE value="update flex width to fix contact section" />
     <MESSAGE value="fixed footer width issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed footer width issue" />
+    <MESSAGE value="fixed footer flex order" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed footer flex order" />
   </component>
 </project>
