@@ -145,6 +145,7 @@ h3 {
 h4,h5{
   text-align: left;
 
+
 }
 
 
@@ -359,7 +360,7 @@ size: 3em;
 }
 
 #myBtn:hover {
-  background-color: #555; /* Add a dark-grey background on hover */
+  background-color: #555;
 }
 
 /* FOOTER */
