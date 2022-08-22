@@ -258,15 +258,15 @@ max-width: 100%;
 #callme{
 size: 3em;
 }
+
 #location,#email{
 }
 .callicon,#emailicon,#locationicon{
   float: left;
   margin: 20px;
 }
-
-#whatsapplogo,#linkedinlogo{
-  margin-left: 15px;
+#linkedin,#whatsapplogo{
+  padding: 20px;
 }
 
 .blob {
@@ -380,7 +380,7 @@ size: 3em;
 .footer a {
   color: white;
   text-decoration: none;
-  margin-left: 10px;
+  padding: 20px;
 } 
 
 .footer ul {
@@ -388,7 +388,5 @@ size: 3em;
 } 
 
 .footer li{
-  display:inline-block;
-margin-left: 10px;
-}
+  display:inline-block;;}
 

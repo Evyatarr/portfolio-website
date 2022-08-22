@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="update flex width to fix contact section">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed footer width issue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,20 +40,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00015" summary="changed home text &#10;improved footer">
-      <created>1660948269113</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1660948269113</updated>
-    </task>
-    <task id="LOCAL-00016" summary="updated projects section">
-      <created>1660948951060</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1660948951060</updated>
     </task>
     <task id="LOCAL-00017" summary="updated skills">
       <created>1660949262138</created>
@@ -387,7 +370,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661199111584</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="fixed footer width issue">
+      <created>1661199641157</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1661199641157</updated>
+    </task>
+    <task id="LOCAL-00065" summary="fixed footer width issue">
+      <created>1661199647636</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1661199647636</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="further fixed text alignment" />
     <MESSAGE value="added buttons icon" />
     <MESSAGE value="fixed width issue" />
     <MESSAGE value="fixed flex mobile order" />
@@ -427,6 +423,7 @@
     <MESSAGE value="fixed skills' svg's" />
     <MESSAGE value="contact svg update" />
     <MESSAGE value="update flex width to fix contact section" />
-    <option name="LAST_COMMIT_MESSAGE" value="update flex width to fix contact section" />
+    <MESSAGE value="fixed footer width issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed footer width issue" />
   </component>
 </project>
