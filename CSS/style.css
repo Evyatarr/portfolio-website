@@ -94,6 +94,12 @@ body {
   padding-bottom: 10%;
   text-align: center;
 }
+.grid {
+	display: grid;
+	align-items: center;
+	max-width: 100%;
+	grid-template-columns: repeat( auto-fit, minmax(50px, 1fr) );
+}
 .flex {
   display: flex;
   align-items: center;
@@ -246,6 +252,7 @@ max-width: 100%;
   text-align: center;
   margin:  0 auto;
   gap: 5em;
+  flex-wrap: wrap;
 }
 
 #callme{
@@ -256,6 +263,10 @@ size: 3em;
 .callicon,#emailicon,#locationicon{
   float: left;
   margin: 20px;
+}
+
+#whatsapplogo,#linkedinlogo{
+  margin-left: 15px;
 }
 
 .blob {
