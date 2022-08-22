@@ -107,7 +107,7 @@ body {
   max-width: 100%;
 }
 
-.flex :first-child {
+#about .flex :first-child, #home .flex  :first-child {
   order: 0;
 }
 @media (max-width: 800px) {
@@ -115,7 +115,7 @@ body {
   .flex {
     flex-direction: column;
   }
-  .flex :first-child {
+  #about .flex :first-child, #home .flex  :first-child {
     order: 1;
   }
 }
@@ -376,6 +376,7 @@ size: 3em;
   bottom: 0;
   text-align: center;
 }
+
 
 .footer a {
   color: white;
