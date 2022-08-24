@@ -265,9 +265,11 @@ size: 3em;
 .callicon,#emailicon,#locationicon{
   float: left;
   margin: 20px;
+
 }
 #linkedin,#whatsapplogo{
   padding: 20px;
+
 }
 
 .blob {
