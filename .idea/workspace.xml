@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="added globe to visit button">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="removed = from html">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,34 +42,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00029" summary="updated footer copyright">
-      <created>1661024868265</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1661024868265</updated>
-    </task>
-    <task id="LOCAL-00030" summary="removed footer list style">
-      <created>1661025541162</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1661025541162</updated>
-    </task>
-    <task id="LOCAL-00031" summary="updated tiktag link">
-      <created>1661027464497</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1661027464497</updated>
-    </task>
-    <task id="LOCAL-00032" summary="footer fixing">
-      <created>1661029451044</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1661029451044</updated>
     </task>
     <task id="LOCAL-00033" summary="footer fixing">
       <created>1661035840813</created>
@@ -386,7 +358,35 @@
       <option name="project" value="LOCAL" />
       <updated>1661719080928</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="added globe to visit button">
+      <created>1661719097910</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1661719097910</updated>
+    </task>
+    <task id="LOCAL-00079" summary="removed commas">
+      <created>1661719157869</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1661719157869</updated>
+    </task>
+    <task id="LOCAL-00080" summary="removed commas">
+      <created>1661719176241</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1661719176241</updated>
+    </task>
+    <task id="LOCAL-00081" summary="removed = from html">
+      <created>1661793761387</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1661793761388</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,8 +401,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated footer" />
-    <MESSAGE value="updated footer copyright" />
     <MESSAGE value="removed footer list style" />
     <MESSAGE value="updated tiktag link" />
     <MESSAGE value="footer fixing" />
@@ -426,6 +424,8 @@
     <MESSAGE value="fixed footer flex order" />
     <MESSAGE value="fixed footer padding" />
     <MESSAGE value="added globe to visit button" />
-    <option name="LAST_COMMIT_MESSAGE" value="added globe to visit button" />
+    <MESSAGE value="removed commas" />
+    <MESSAGE value="removed = from html" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed = from html" />
   </component>
 </project>
