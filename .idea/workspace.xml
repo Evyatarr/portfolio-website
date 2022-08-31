@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="reformatting html">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="added animation to contact icons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
     </list>
@@ -43,13 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00038" summary="removed &quot;me&quot; from about">
-      <created>1661039031400</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1661039031400</updated>
     </task>
     <task id="LOCAL-00039" summary="removed &quot;me&quot; from about">
       <created>1661039043516</created>
@@ -387,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661969260923</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="added animation to contact icons">
+      <created>1661970867765</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1661970867765</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="flexbox fix" />
     <MESSAGE value="fixed scroll bug on mobile (removed .wrapper)" />
     <MESSAGE value="updated footer elements" />
     <MESSAGE value="updated text sizing" />
@@ -427,6 +426,7 @@
     <MESSAGE value="fixed header position" />
     <MESSAGE value="css updates" />
     <MESSAGE value="reformatting html" />
-    <option name="LAST_COMMIT_MESSAGE" value="reformatting html" />
+    <MESSAGE value="added animation to contact icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="added animation to contact icons" />
   </component>
 </project>
