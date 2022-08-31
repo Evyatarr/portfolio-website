@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="fixed header position">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="reformatting html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,34 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00034" summary="flexbox fix">
-      <created>1661036510699</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1661036510699</updated>
-    </task>
-    <task id="LOCAL-00035" summary="fixed scroll bug on mobile (removed .wrapper)">
-      <created>1661037001400</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1661037001400</updated>
-    </task>
-    <task id="LOCAL-00036" summary="updated footer elements">
-      <created>1661037189624</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1661037189624</updated>
-    </task>
-    <task id="LOCAL-00037" summary="updated text sizing">
-      <created>1661038877738</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1661038877738</updated>
     </task>
     <task id="LOCAL-00038" summary="removed &quot;me&quot; from about">
       <created>1661039031400</created>
@@ -386,7 +359,35 @@
       <option name="project" value="LOCAL" />
       <updated>1661794202583</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="css updates">
+      <created>1661969099863</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1661969099863</updated>
+    </task>
+    <task id="LOCAL-00084" summary="css updates">
+      <created>1661969126784</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1661969126784</updated>
+    </task>
+    <task id="LOCAL-00085" summary="reformatting html">
+      <created>1661969213648</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1661969213648</updated>
+    </task>
+    <task id="LOCAL-00086" summary="reformatting html">
+      <created>1661969260923</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1661969260923</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,8 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated tiktag link" />
-    <MESSAGE value="footer fixing" />
     <MESSAGE value="flexbox fix" />
     <MESSAGE value="fixed scroll bug on mobile (removed .wrapper)" />
     <MESSAGE value="updated footer elements" />
@@ -426,6 +425,8 @@
     <MESSAGE value="removed commas" />
     <MESSAGE value="removed = from html" />
     <MESSAGE value="fixed header position" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed header position" />
+    <MESSAGE value="css updates" />
+    <MESSAGE value="reformatting html" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformatting html" />
   </component>
 </project>

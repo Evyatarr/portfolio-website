@@ -277,6 +277,42 @@ h4 a,
   padding: 20px;
 }
 
+#linkedin:hover,
+#whatsapplogo:hover {
+  transform: scale(1.2);
+  animation: shake 0.9s;
+  animation-iteration-count: infinite;
+}
+@keyframes shake {
+  0% {
+    transform: rotate(0);
+  }
+  15% {
+    transform: rotate(5deg);
+  }
+  30% {
+    transform: rotate(-5deg);
+  }
+  45% {
+    transform: rotate(4deg);
+  }
+  60% {
+    transform: rotate(-4deg);
+  }
+  75% {
+    transform: rotate(2deg);
+  }
+  85% {
+    transform: rotate(-2deg);
+  }
+  92% {
+    transform: rotate(1deg);
+  }
+  100% {
+    transform: rotate(0);
+  }
+}
+
 .blob {
   position: fixed;
   top: 0;
