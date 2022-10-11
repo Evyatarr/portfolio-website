@@ -279,12 +279,12 @@ h4 a,
 
 #linkedin:hover,
 #whatsapplogo:hover {
-  transform: scale(1.2);
   animation: shake 0.9s;
   animation-iteration-count: infinite;
 }
 @keyframes shake {
   0% {
+    transform: scale(10);
     transform: rotate(0);
   }
   15% {
