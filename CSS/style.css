@@ -105,6 +105,9 @@ body {
   flex-direction: row;
   max-width: 100%;
 }
+#projects .flex{
+  column-gap: 1.5em;
+}
 
 #about .flex :first-child,
 #home .flex :first-child {
