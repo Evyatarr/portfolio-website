@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="changed photo format to webp for performance">
+    <list default="true" id="29586d80-0d23-4780-8b44-74b4ca2311d3" name="Changes" comment="changed swiper.js shape">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +42,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660865337051</updated>
-    </task>
-    <task id="LOCAL-00040" summary="added data to contact section">
-      <created>1661039952076</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1661039952076</updated>
     </task>
     <task id="LOCAL-00041" summary="added wrapper">
       <created>1661040993239</created>
@@ -388,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665837576664</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="changed swiper.js shape">
+      <created>1665850562676</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1665850562676</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +401,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated footer elements" />
     <MESSAGE value="updated text sizing" />
     <MESSAGE value="removed &quot;me&quot; from about" />
     <MESSAGE value="added data to contact section" />
@@ -428,6 +425,7 @@
     <MESSAGE value="reformatting html" />
     <MESSAGE value="added animation to contact icons" />
     <MESSAGE value="changed photo format to webp for performance" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed photo format to webp for performance" />
+    <MESSAGE value="changed swiper.js shape" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed swiper.js shape" />
   </component>
 </project>
