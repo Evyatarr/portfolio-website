@@ -146,6 +146,7 @@ h2,
 h3 {
   color: blueviolet;
   text-align: center;
+  margin-bottom: 2rem;
 }
 
 h4,
@@ -245,13 +246,13 @@ h4 a,
   font-size: 2em;
 }
 #skills {
-  background-color: rgb(2, 74, 83);
+  background-color: #304240;
   color: white !important;
 }
 
 #skillstext,
 #skillsh2 {
-  background-color: rgb(2, 74, 83);
+  background-color: #304240;
   color: white !important;
   text-align: center;
 }
