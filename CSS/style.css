@@ -93,6 +93,7 @@ body {
   padding-top: 10%;
   padding-bottom: 10%;
   text-align: center;
+  border-bottom: 3px solid black;
 }
 .grid {
   display: grid;
@@ -167,7 +168,7 @@ h4 a,
 
 #h1intro {
   text-align: left;
-  font-size: 3em;
+  font-size: 2.8em;
   font-weight: bold;
 }
 #h3intro {
@@ -190,7 +191,7 @@ h4 a,
 
 #Evyatar {
   display: block;
-  margin: 3rem;
+  margin: 20px;
   /* padding: 20px; */
   width: 65%;
   border-radius: 46% 54% 52% 48% / 33% 67% 33% 67%;
