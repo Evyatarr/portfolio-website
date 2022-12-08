@@ -23,6 +23,8 @@ body {
   overflow: hidden;
   width: 100%;
   z-index: 10;
+  border-bottom: 3px solid black;
+
 }
 
 /* Style the links inside the navigation bar */
