@@ -1,12 +1,12 @@
 /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
-function myFunction() {
-  let x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
+ function myFunction() {
+   let x = document.getElementById("myTopnav");
+   if (x.className === "topnav") {
+     x.className += " responsive";
+   } else {
+     x.className = "topnav";
+   }
+ }
 
 
 
@@ -74,4 +74,29 @@ const swiper = new Swiper('.swiper', {
   scrollbar: {
     el: '.swiper-scrollbar',
   },
+});
+
+// Get all of the nav links on the page
+const navLinks = document.querySelectorAll('nav a');
+
+// Set up an event listener to listen for scroll events
+window.addEventListener('scroll', function() {
+  // Get the current vertical position of the scrollbar
+  const scrollPos = window.scrollY;
+
+  // Loop through all of the nav links
+  navLinks.forEach(function(link) {
+    // Get the position of the element that the nav link points to
+    const elementPos = link.getAttribute('href');
+    const element = document.querySelector(elementPos);
+    const elementTop = element.getBoundingClientRect().top;
+    const elementBottom = element.getBoundingClientRect().bottom;
+
+    // If the scroll position is within the bounds of the element, add the 'active' class to the nav link
+    if (scrollPos >= elementTop && scrollPos <= elementBottom) {
+      link.classList.add('active');
+    } else {
+      link.classList.remove('active');
+    }
+  });
 });

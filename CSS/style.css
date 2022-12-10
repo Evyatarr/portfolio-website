@@ -1,3 +1,5 @@
+
+
 html {
   scroll-behavior: smooth;
 }
@@ -25,6 +27,11 @@ body {
   z-index: 10;
   border-bottom: 3px solid black;
 
+}
+
+.nav-link.active {
+  color: yellow;
+  background-color: #333;
 }
 
 /* Style the links inside the navigation bar */
@@ -189,8 +196,7 @@ h4 a,
     opacity: 0;
   }
 }
-#home{
-  background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );}
+#home{background-image: linear-gradient( 44.8deg,  rgba(255,136,102,0.67) -53.1%, rgba(255,221,136,0.28) 49% );}
 #home,
 #hometext {
   text-align: left;
@@ -272,6 +278,8 @@ h4 a,
   margin: 0 auto;
   gap: 5em;
   flex-wrap: wrap;
+
+  
 }
 
 #callme {
