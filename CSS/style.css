@@ -438,7 +438,7 @@ h4 a,
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 3px; /* Some padding */
   border-radius: 0px; /* Rounded corners */
-  font-size: 18px; /* Increase font size */
+  font-size: 14px; /* Increase font size */
 }
 
 #myBtn:hover {
