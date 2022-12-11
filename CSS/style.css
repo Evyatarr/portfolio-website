@@ -268,6 +268,7 @@ h4 a,
 #tiktagscreenshot {
   border: 3px solid black;
   max-width: 90%;
+  margin: 2rem;
 }
 
 #tiktagabout {
