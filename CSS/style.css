@@ -39,9 +39,9 @@ body {
   display: block;
   color: #6637ee;
   text-align: center;
-  padding: 14px 16px;
+  padding: 1.1rem;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   /* border-right: 3px solid black; */
 }
 
@@ -92,6 +92,10 @@ body {
 
 /* MAIN */
 
+section{
+  border-bottom: 3px solid black;
+
+}
 .container {
   padding-block: 50px;
   padding-inline: 30px;
@@ -102,7 +106,6 @@ body {
   padding-top: 10%;
   padding-bottom: 10%;
   text-align: center;
-  border-bottom: 3px solid black;
 }
 .grid {
   display: grid;
