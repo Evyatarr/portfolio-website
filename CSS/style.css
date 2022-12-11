@@ -1,4 +1,4 @@
-
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Signika+Negative:wght@300;400;500;600;700&family=Unbounded:wght@400;500;600;700;800;900&display=swap");
 
 html {
   scroll-behavior: smooth;
@@ -26,7 +26,6 @@ body {
   width: 100%;
   z-index: 10;
   border-bottom: 3px solid black;
-
 }
 
 .nav-link.active {
@@ -44,7 +43,6 @@ body {
   text-decoration: none;
   font-size: 17px;
   /* border-right: 3px solid black; */
-
 }
 
 /* Change the color of links on hover */
@@ -105,7 +103,6 @@ body {
   padding-bottom: 10%;
   text-align: center;
   border-bottom: 3px solid black;
-  
 }
 .grid {
   display: grid;
@@ -149,6 +146,11 @@ h2,
   color: black;
   text-align: center;
   text-decoration: none;
+}
+
+#hi {
+  font-family: "Unbounded", cursive;
+  font-size: 2em;
 }
 #homesocial,
 #homesocial a {
@@ -196,7 +198,13 @@ h4 a,
     opacity: 0;
   }
 }
-#home{background-image: linear-gradient( 44.8deg,  rgba(255,136,102,0.67) -53.1%, rgba(255,221,136,0.28) 49% );}
+#home {
+  background-image: linear-gradient(
+    44.8deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
+  );
+}
 #home,
 #hometext {
   text-align: left;
@@ -204,26 +212,27 @@ h4 a,
 
 #Evyatar {
   display: block;
-  margin: 20px;
-  /* padding: 20px; */
+  margin: 4rem;
   width: 65%;
   border-radius: 46% 54% 52% 48% / 33% 67% 33% 67%;
   max-width: 500px;
   border: 3px solid black;
-
+  background-color: #53c3b4;
 }
 #Moji {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
+  margin: auto;
+  /* padding: 20px; */
+  border-radius: 71% 29% 66% 34% / 39% 52% 48% 61%;
   width: 65%;
+  background-color: #f1f333;
   max-width: 500px;
+  border: 3px solid black;
 }
 
 #about,
 #aboutme {
-  background-color: gainsboro;
+  background-color: #90a8ed;
   text-align: left;
 }
 
@@ -262,15 +271,20 @@ h4 a,
   font-size: 2em;
 }
 #skills {
-  background-color: #304240;
-  color: white !important;
+  background-color: #ff90e8;
+  color: black !important;
 }
 
 #skillstext,
 #skillsh2 {
-  background-color: #304240;
-  color: white !important;
+  background-color: #ff90e8;
+  color: black !important;
   text-align: center;
+}
+.x {
+  background-color: white;
+  border: 3px solid black;
+  /* padding: 20px; */
 }
 
 #skillsflex {
@@ -278,8 +292,6 @@ h4 a,
   margin: 0 auto;
   gap: 5em;
   flex-wrap: wrap;
-
-  
 }
 
 #callme {
@@ -297,7 +309,7 @@ h4 a,
 }
 #linkedin,
 #whatsapplogo {
-  padding: 20px;
+  margin: 20px;
 }
 
 #linkedin:hover,
