@@ -210,9 +210,10 @@ h4 a,
   text-align: left;
 }
 
+
 #Evyatar {
   display: block;
-  margin: 4rem;
+  margin: 3rem 4rem 0rem 4rem;
   width: 65%;
   border-radius: 46% 54% 52% 48% / 33% 67% 33% 67%;
   max-width: 500px;
