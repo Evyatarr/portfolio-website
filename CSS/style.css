@@ -92,9 +92,8 @@ body {
 
 /* MAIN */
 
-section{
+section {
   border-bottom: 3px solid black;
-
 }
 .container {
   padding-block: 50px;
@@ -150,9 +149,8 @@ h2,
   text-align: center;
   text-decoration: none;
 }
-h2{
+h2 {
   font-family: "Unbounded", cursive;
-
 }
 #hi {
   font-family: "Unbounded", cursive;
@@ -214,7 +212,6 @@ h4 a,
 #hometext {
   text-align: left;
 }
-
 
 #Evyatar {
   display: block;
@@ -356,49 +353,34 @@ h4 a,
   }
 }
 
-
-.bn632-hover {
+.button {
   min-width: 160px;
   font-size: 16px;
   font-weight: 600;
   color: #fff;
   cursor: pointer;
-  margin: 1rem 0rem ;
+  margin: 1rem 0rem;
   height: 55px;
   text-align: center;
   border: 3px solid black;
-  background-size: 300% 100%;
   border-radius: 5px;
-  moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-
-.bn632-hover:hover {
-  background-position: 100% 0;
-  moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-
-.bn632-hover:focus {
-  outline: none;
-}
-
-.bn632-hover.bn26 {
-  /* background-image: linear-gradient(
-    to right,
-    #25aae1,
-    #4481eb,
-    #04befe,
-    #3f86ed
-  ); */
-
   background-color: #25aae1;
-  /* box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75); */
   box-shadow: 5px 5px 0px 1px black;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.button:hover {
+  background-color: #25a9e1bb;
+}
+
+.button:active {
+  transform: translateY(10px);
+  transform: translateX(5px);
+  box-shadow: 0px;
 }
 
 #myBtn {
@@ -413,7 +395,7 @@ h4 a,
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 3px; /* Some padding */
-  border-radius: 0px; /* Rounded corners */
+  border-radius: 5px; /* Rounded corners */
   font-size: 14px; /* Increase font size */
 }
 
