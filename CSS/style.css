@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Signika+Negative:wght@300;400;500;600;700&family=Unbounded:wght@400;500;600;700;800;900&display=swap");
+
 html {
   scroll-behavior: smooth;
 }
@@ -7,7 +9,7 @@ html {
 }
 
 body {
-  font-family: "Rubik", sans-serif;
+  font-family: "Signika Negative", sans-serif;
   margin: 0;
   max-width: 100vw;
   overflow-x: hidden;
@@ -16,24 +18,31 @@ body {
 /* NAVIGATION BAR */
 
 .topnav {
-  background-color: rgba(18, 65, 82, 0.4);
+  background-color: white;
   position: fixed;
   max-width: 100vw;
   top: 0;
   overflow: hidden;
   width: 100%;
   z-index: 10;
+  border-bottom: 3px solid black;
+}
+
+.nav-link.active {
+  color: yellow;
+  background-color: #333;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #6637ee;
   text-align: center;
-  padding: 14px 16px;
+  padding: 1.1rem;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
+  /* border-right: 3px solid black; */
 }
 
 /* Change the color of links on hover */
@@ -83,6 +92,9 @@ body {
 
 /* MAIN */
 
+section {
+  border-bottom: 3px solid black;
+}
 .container {
   padding-block: 50px;
   padding-inline: 30px;
@@ -106,7 +118,7 @@ body {
   flex-direction: row;
   max-width: 100%;
 }
-#projects .flex{
+#projects .flex {
   column-gap: 1.5em;
 }
 
@@ -137,6 +149,13 @@ h2,
   text-align: center;
   text-decoration: none;
 }
+h2 {
+  font-family: "Unbounded", cursive;
+}
+#hi {
+  font-family: "Unbounded", cursive;
+  font-size: 2em;
+}
 #homesocial,
 #homesocial a {
   color: #8a2be2;
@@ -146,7 +165,6 @@ h2,
 h3 {
   color: blueviolet;
   text-align: center;
-  margin-bottom: 2rem;
 }
 
 h4,
@@ -167,7 +185,7 @@ h4 a,
 
 #h1intro {
   text-align: left;
-  font-size: 3em;
+  font-size: 2.8em;
   font-weight: bold;
 }
 #h3intro {
@@ -183,6 +201,13 @@ h4 a,
     opacity: 0;
   }
 }
+#home {
+  background-image: linear-gradient(
+    44.8deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
+  );
+}
 #home,
 #hometext {
   text-align: left;
@@ -190,25 +215,27 @@ h4 a,
 
 #Evyatar {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
+  margin: 3rem 4rem 0rem 4rem;
   width: 65%;
   border-radius: 46% 54% 52% 48% / 33% 67% 33% 67%;
   max-width: 500px;
+  border: 3px solid black;
+  background-color: #53c3b4;
 }
 #Moji {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
+  margin: auto;
+  /* padding: 20px; */
+  border-radius: 71% 29% 66% 34% / 39% 52% 48% 61%;
   width: 65%;
+  background-color: #f1f333;
   max-width: 500px;
+  border: 3px solid black;
 }
 
 #about,
 #aboutme {
-  background-color: gainsboro;
+  background-color: #90a8ed;
   text-align: left;
 }
 
@@ -237,8 +264,10 @@ h4 a,
   color: black;
   text-align: left;
 }
-#tiktagscreenshot {
-  max-width: 100%;
+#screenshot {
+  border: 3px solid black;
+  max-width: 90%;
+  margin: 2rem 0rem;
 }
 
 #tiktagabout {
@@ -246,15 +275,21 @@ h4 a,
   font-size: 2em;
 }
 #skills {
-  background-color: #304240;
-  color: white !important;
+  background-color: #ff90e8;
+  color: black !important;
 }
 
 #skillstext,
 #skillsh2 {
-  background-color: #304240;
-  color: white !important;
+  background-color: #ff90e8;
+  color: black !important;
   text-align: center;
+}
+.x {
+  background-color: white;
+  border: 3px solid black;
+  box-shadow: 5px 5px 0px 1px black;
+  /* padding: 20px; */
 }
 
 #skillsflex {
@@ -279,7 +314,7 @@ h4 a,
 }
 #linkedin,
 #whatsapplogo {
-  padding: 20px;
+  margin: 20px;
 }
 
 #linkedin:hover,
@@ -318,77 +353,34 @@ h4 a,
   }
 }
 
-.blob {
-  position: fixed;
-  top: 0;
-  left: 0;
-  fill: #53c3b4;
-  width: 50vmax;
-  z-index: -1;
-  animation: move 20s ease-in-out infinite;
-  transform-origin: 50% 50%;
-}
-
-@keyframes move {
-  0% {
-    transform: scale(1) translate(10px, -30px);
-  }
-  38% {
-    transform: scale(0.8, 1) translate(80vw, 30vh) rotate(160deg);
-  }
-  40% {
-    transform: scale(0.8, 1) translate(80vw, 30vh) rotate(160deg);
-  }
-  78% {
-    transform: scale(1.3) translate(0vw, 50vh) rotate(-20deg);
-  }
-  80% {
-    transform: scale(1.3) translate(0vw, 50vh) rotate(-20deg);
-  }
-  100% {
-    transform: scale(1) translate(10px, -30px);
-  }
-}
-
-.bn632-hover {
+.button {
   min-width: 160px;
   font-size: 16px;
   font-weight: 600;
   color: #fff;
   cursor: pointer;
-  margin-top: 20px;
+  margin: 1rem 0rem;
   height: 55px;
   text-align: center;
-  border: none;
-  background-size: 300% 100%;
-  border-radius: 50px;
-  moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
+  border: 3px solid black;
+  border-radius: 5px;
+  background-color: #25aae1;
+  box-shadow: 5px 5px 0px 1px black;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
 }
 
-.bn632-hover:hover {
-  background-position: 100% 0;
-  moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
+.button:hover {
+  background-color: #25a9e1bb;
 }
 
-.bn632-hover:focus {
-  outline: none;
-}
-
-.bn632-hover.bn26 {
-  background-image: linear-gradient(
-    to right,
-    #25aae1,
-    #4481eb,
-    #04befe,
-    #3f86ed
-  );
-  box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+.button:active {
+  transform: translateY(10px);
+  transform: translateX(5px);
+  box-shadow: 0px;
 }
 
 #myBtn {
@@ -397,14 +389,14 @@ h4 a,
   bottom: 20px; /* Place the button at the bottom of the page */
   right: 15px; /* Place the button 30px from the right */
   z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
+  border: 3px solid black; /* Remove borders */
   outline: none; /* Remove outline */
   background-color: #53c3b4; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 3px; /* Some padding */
-  border-radius: 10px; /* Rounded corners */
-  font-size: 18px; /* Increase font size */
+  border-radius: 5px; /* Rounded corners */
+  font-size: 14px; /* Increase font size */
 }
 
 #myBtn:hover {
