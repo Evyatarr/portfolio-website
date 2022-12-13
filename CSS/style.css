@@ -289,13 +289,15 @@ h4 a,
   background-color: white;
   border: 3px solid black;
   box-shadow: 5px 5px 0px 1px black;
-  /* padding: 20px; */
+}
+.x svg{
+  padding: 0.8em;
 }
 
 #skillsflex {
   text-align: center;
   margin: 0 auto;
-  gap: 5em;
+  gap: 4em;
   flex-wrap: wrap;
 }
 
