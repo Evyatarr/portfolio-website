@@ -370,19 +370,16 @@ h4 a,
   box-shadow: 5px 5px 0px 1px black;
   -webkit-transition: all 500ms ease;
   -moz-transition: all 500ms ease;
-  -ms-transition: all 500ms ease;
-  -o-transition: all 500ms ease;
   transition: all 500ms ease;
 }
 
-.button:hover {
+.button:active {
   background-color: #25a9e1bb;
 }
 
-.button:active {
-  transform: translateY(10px);
-  transform: translateX(5px);
-  box-shadow: 0px;
+.button:hover {
+  transform: translateX(5px) translateY(5px);
+  box-shadow: 0px 0px 0px 0px black;
 }
 
 #myBtn {
